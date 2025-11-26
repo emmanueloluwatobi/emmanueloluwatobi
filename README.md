@@ -1,51 +1,49 @@
-# Hey there 👋 I'm Kaustav
+# Hey there 👋 I'm Emmanuel Tobi
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+it's+Emmanuel;Full+stack+web+developer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
 
-Aspiring full-stack developer and data science enthusiast with a passion for building clean, efficient solutions.  
-Currently expanding my knowledge in backend development and open source collaboration.  
-I enjoy solving problems, writing maintainable code, and sharing what I learn through blogs and tech articles.
+## 💡 About Me
 
----
-
-## 🔧 What I’m Working On
-- 🚀 Building an Online Retail Community App  
-- 📚 Learning **Flask** & backend engineering fundamentals  
-- 🤝 Looking to collaborate on meaningful **open source** projects  
-- 💡 Exploring **Blockchain** & **Crypto technologies**
+- 👨‍💻 Full-stack developer with a strong interest in backend engineering  
+- 📊 Data Science & Analytics enthusiast  
+- ✍️ Tech blogger sharing insights, tutorials, and dev tips  
+- 🌱 Currently learning Flask, backend fundamentals, and system design  
+- 🤝 Active open-source contributor and community participant  
+- 🎯 Goal: Build meaningful software, contribute to impactful projects, and grow as an engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`C++` • `Java` • `Python` • `R` • `Shell`
+### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light" />
+</p>
 
-**Web & Frameworks**  
-`Django` • `Flask` • `React` • `JavaScript` • `jQuery` • `Apache`
+### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=light" />
+</p>
 
-**Databases**  
-`MySQL` • `SQLite` • `PostgreSQL`
+### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" />
+</p>
 
-**Tools & Platforms**  
-`Git` • `Linux` • `NPM` • `VIM` • `AWS` • `FastAPI`
+### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,figma&theme=light" />
+</p>
 
-**Data & Analytics**  
-`NumPy` • `Pandas` • `Tableau` • `Power BI`
 
 ---
 
 ## 📊 GitHub Highlights
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanueloluwatobi&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=emmanueloluwatobi&theme=transparent" />
+  <img src="https://raw.githubusercontent.com/emmanueloluwatobi/emmanueloluwatobi/main/profile-3d-contrib/profile-green.svg" />
 </p>
-
----
-
-## 📝 Latest Articles
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065)  
-- [How Open Source can kickstart your journey (Part 2)](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82)  
-- [How Open Source can kickstart your journey (Part 1)](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b)
 
 ---
 
@@ -60,5 +58,5 @@ I enjoy solving problems, writing maintainable code, and sharing what I learn th
 <p align="center">
   <sub>Visitor Count</sub>  
 </br>
-  <img src="https://profile-counter.glitch.me/kaustav202/count.svg" />
+  <img src="https://profile-counter.glitch.me/emmanueloluwatobi/count.svg" />
 </p>
