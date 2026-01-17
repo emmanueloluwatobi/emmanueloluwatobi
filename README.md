@@ -4,9 +4,8 @@
 ## 💡 About Me
 
 - 👨‍💻 Full-stack developer with a strong interest in backend engineering  
-- 📊 Data Science & Analytics enthusiast  
 - ✍️ Tech blogger sharing insights, tutorials, and dev tips  
-- 🌱 Currently learning Flask, backend fundamentals, and system design  
+- 🌱 Currently learning backend fundamentals and system design  
 - 🤝 Active open-source contributor and community participant  
 - 🎯 Goal: Build meaningful software, contribute to impactful projects, and grow as an engineer
 
