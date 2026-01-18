@@ -15,12 +15,12 @@
 
 ### 🚀 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind&theme=light" />
 </p>
 
 ### 🧩 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
 </p>
 
 ### 🗄 Databases
@@ -30,7 +30,7 @@
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=light" />
 </p>
 
 
